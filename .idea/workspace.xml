@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30efe7a4-efdb-4b74-9c6e-ab1ac225c380" name="Default Changelist" comment="" />
+    <list default="true" id="30efe7a4-efdb-4b74-9c6e-ab1ac225c380" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get-pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence.aln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phylogeny_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phylogeny_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phylogenetics/sharks/sharks.py" beforeDir="false" afterPath="$PROJECT_DIR$/phylogenetics/sharks/sharks.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vtV3TeFSqsVseHM1EKAtFiaG0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,6 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1627381172754</updated>
       <workItem from="1627381184123" duration="1279000" />
+      <workItem from="1627382690586" duration="826000" />
+      <workItem from="1627386555542" duration="5872000" />
     </task>
     <servers />
   </component>
@@ -43,14 +59,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2041" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627382553064">
+    <state x="2236" y="352" key="#Inspections" timestamp="1627388891710">
       <screen x="0" y="25" width="3440" height="1337" />
     </state>
-    <state x="2041" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.3440.1337@0.25.3440.1337" timestamp="1627382553064" />
-    <state x="1719" y="285" key="SettingsEditor" timestamp="1627382465702">
+    <state x="2236" y="352" key="#Inspections/0.25.3440.1337@0.25.3440.1337" timestamp="1627388891710" />
+    <state x="2041" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627388285795">
       <screen x="0" y="25" width="3440" height="1337" />
     </state>
-    <state x="1719" y="285" key="SettingsEditor/0.25.3440.1337@0.25.3440.1337" timestamp="1627382465702" />
+    <state x="2041" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.3440.1337@0.25.3440.1337" timestamp="1627388285795" />
+    <state x="2293" y="541" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627393998620">
+      <screen x="0" y="25" width="3440" height="1337" />
+    </state>
+    <state x="2293" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.25.3440.1337@0.25.3440.1337" timestamp="1627393998620" />
+    <state x="1719" y="285" key="SettingsEditor" timestamp="1627386650580">
+      <screen x="0" y="25" width="3440" height="1337" />
+    </state>
+    <state x="1719" y="285" key="SettingsEditor/0.25.3440.1337@0.25.3440.1337" timestamp="1627386650580" />
     <state x="1376" y="551" key="com.intellij.ide.util.TipDialog" timestamp="1627381189875">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
